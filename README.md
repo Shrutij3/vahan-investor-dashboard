@@ -34,19 +34,13 @@ requirements.txt → project dependencies.
 
 ⚙️ Setup Instructions
 
-1.Clone the repository
-
-git clone <your-repo-url>
-cd <your-repo>
-
-
-2.Create and activate a virtual environment
+1.Create and activate a virtual environment
 
 python -m venv venv
 venv\Scripts\activate      # Windows
 
 
-3.Install dependencies
+2.Install dependencies
 
 pip install -r requirements.txt
 
